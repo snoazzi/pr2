@@ -1,0 +1,63 @@
+
+
+html {
+  height: -webkit-fill-available;
+}
+
+main {
+  display: flex;
+  position: fixed;
+  z-index: 20000;
+  height: 100vh;
+  height: -webkit-fill-available;
+  max-height: 100vh;
+
+}
+
+.b-example-divider {
+
+  width: 1.5rem;
+  height: 100vh;
+
+
+  
+}
+
+.heighlikne {
+
+  background-color: transparent;
+  height: 100vh;
+}
+h2 {
+  font-size:25px;
+  justify-content: center;
+  align-content: center;
+  text-align: center;
+}
+
+.displayflexcont {
+  display: flex;
+}
+
+.icons{
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  text-align: center;
+  color:whitesmoke;
+}
+
+.progress1 {
+  display: flex;
+}
+
+
+.progress2 {
+  display: flex;
+}
+
+.container-xxl {
+   padding: 50px;
+   margin-left: 25%;
+}
+
